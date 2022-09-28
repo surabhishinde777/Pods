@@ -1,0 +1,6 @@
+framework module Pods_SprintTwo {
+  umbrella header "Pods-SprintTwo-umbrella.h"
+
+  export *
+  module * { export * }
+}
